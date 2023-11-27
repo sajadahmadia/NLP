@@ -8,5 +8,13 @@ Each question (for example: "How do I sort a dictionary by value?") is labeled w
 * CSharp
 * JavaScript
 * Java
-* 
+  
 As our dataset, we use a dataset of 8,000 programming questions from Stack Overflow. Each question is labeld by one of the mentioned tags.
+
+## Author
+
+- [@sajadahmadia](https://github.com/sajadahmadia)
+
+
+# Conclusion
+Although the bag of words model was the simplest model, it showed a better perfromance than other more complex models. It shows that more advanced and complex models always won't outperform simpler models.
