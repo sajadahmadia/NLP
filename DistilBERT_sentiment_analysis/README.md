@@ -10,3 +10,5 @@ Table 1: Classification performance outputs
 |-----------------|-----------|----------|-----------|--------|----------|
 | Rule-based      | VADER     | 0.696    | 0.652     | 0.833  | 0.731    |
 | Machine learning| DistilBERT| 0.867    | 0.857     | 0.879  | 0.868    |
+
+To see the complete paper, please check the short_paper file.
